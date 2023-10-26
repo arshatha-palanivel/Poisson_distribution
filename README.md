@@ -104,7 +104,7 @@ else:
 
 ``````
 # Output : 
-![](./01.png)
+![01](https://github.com/arshatha-palanivel/Poisson_distribution/assets/118682484/447a5a10-8809-4955-b05c-078280374718)
 
 
 # Results
